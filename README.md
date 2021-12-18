@@ -1,6 +1,6 @@
 # TA_Material_1400-1
 
-## Advance Programming (python):
+## Advance Programming (Python):
 
 [Exercise(Control Structure in Python)](https://drive.google.com/file/d/1NpNSXf79JP2UluEGXPbaU4Psi6oDRqic/view?usp=sharing)\
 [Exercise(Control Structure in Python)](https://drive.google.com/file/d/1wYHe7_IuPjpwbgK4mSmInP360y8KIPzR/view?usp=sharing)\
