@@ -14,7 +14,10 @@
 [Online Class(Recursion and Recursive call tree)](https://drive.google.com/file/d/1rFYh0oMfcSv14N-ZKFOYSfUWash5EVTq/view?usp=sharing)\
 [Online Class(Collections)](https://drive.google.com/file/d/1kA6CEvPzynlpeDuZlbe2Nf0wwWxK9lNb/view?usp=sharing)
 
-## Computer Principals (c++):
+## Computer Principals (C++):
+[Online Class(Flowchart and Algorithm)](https://drive.google.com/file/d/1Hqccv6KOlos1n4VqC2eD_2o0xpSVuqLb/view?usp=sharing)
+
+## Computer Principals (Python):
 [Online Class(Flowchart and Algorithm)](https://drive.google.com/file/d/1Hqccv6KOlos1n4VqC2eD_2o0xpSVuqLb/view?usp=sharing)
 
 
