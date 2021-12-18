@@ -17,7 +17,7 @@
 [Online Class(Flowchart and Algorithm)](https://drive.google.com/file/d/1Hqccv6KOlos1n4VqC2eD_2o0xpSVuqLb/view?usp=sharing)
 
 ## Computer Principals (Python):
-[Online Class(Flowchart and Algorithm)](https://drive.google.com/file/d/1Hqccv6KOlos1n4VqC2eD_2o0xpSVuqLb/view?usp=sharing)
+[Offline Class(Flowchart and Algorithm)](https://drive.google.com/file/d/1Hqccv6KOlos1n4VqC2eD_2o0xpSVuqLb/view?usp=sharing)
 
 
 
