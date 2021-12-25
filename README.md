@@ -14,12 +14,12 @@
 [Online Class(Collections)](https://drive.google.com/file/d/1kA6CEvPzynlpeDuZlbe2Nf0wwWxK9lNb/view?usp=sharing)
 
 ## Computer Principals (C++):
-[Online Class(Flowchart and Algorithm)](https://drive.google.com/file/d/1Hqccv6KOlos1n4VqC2eD_2o0xpSVuqLb/view?usp=sharing)
+[Online Class(Flowchart and Algorithm)](https://drive.google.com/file/d/1Hqccv6KOlos1n4VqC2eD_2o0xpSVuqLb/view?usp=sharing)\
 [Online Class(Flowchart and Algorithm & Install Code Blocks)](https://drive.google.com/file/d/1LPZ-zi7o_XmIQdmMom1Q_L2E_WPQrrje/view?usp=sharing)
 
 
 ## Computer Principals (Python):
-[Offline Class(Flowchart and Algorithm)](https://drive.google.com/file/d/1Hqccv6KOlos1n4VqC2eD_2o0xpSVuqLb/view?usp=sharing)
+[Offline Class(Flowchart and Algorithm)](https://drive.google.com/file/d/1Hqccv6KOlos1n4VqC2eD_2o0xpSVuqLb/view?usp=sharing)\
 [Online Class(Flowchart and Algorithm)](https://drive.google.com/file/d/1ZbdT5Ghd-OLdqdCRdOfk9J7OLMwRJpmW/view?usp=sharing)
 
 
