@@ -15,7 +15,7 @@
 
 ## Computer Principals (C++):
 [Online Class(Flowchart and Algorithm)](https://drive.google.com/file/d/1Hqccv6KOlos1n4VqC2eD_2o0xpSVuqLb/view?usp=sharing)\
-[Online Class(Flowchart and Algorithm & Install Code Blocks)](https://drive.google.com/file/d/1LPZ-zi7o_XmIQdmMom1Q_L2E_WPQrrje/view?usp=sharing)
+[Online Class(Flowchart and Algorithm & Install Code Blocks)](https://drive.google.com/file/d/1LPZ-zi7o_XmIQdmMom1Q_L2E_WPQrrje/view?usp=sharing)\
 [Online Unwind Class for students](https://mega.nz/file/cs0G0LgQ#j1PWiP_3latG7n1rJB9hc1dL8veYEusucwqnVMQlPWw)
 
 
