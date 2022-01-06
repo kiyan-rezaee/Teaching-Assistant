@@ -24,5 +24,15 @@
 [Online Class(Flowchart and Algorithm)](https://drive.google.com/file/d/1ZbdT5Ghd-OLdqdCRdOfk9J7OLMwRJpmW/view?usp=sharing)
 
 
+## Notes:
+[Computer Principals week1](https://drive.google.com/file/d/1MW424nq5BNaO8rCjp4os1w7vDhyPZZ_1/view?usp=sharing)\
+[Computer Principals week2](https://drive.google.com/file/d/10tzVk5uSfefNT63ZNiyhiyvueyU-7w5g/view?usp=sharing)\
+[Additional Exercises for Computer Principals class (section1)](https://drive.google.com/file/d/1KRlWDkTg4EYykA_Ee3x186AKhvw2sROQ/view?usp=sharing)\
+[Additional Exercises for Computer Principals class (section2)](https://drive.google.com/file/d/15eK81jF6m2QTZPv7r6v3X5Nk4IJgqYy7/view?usp=sharing)\
+[Additional Exercises for Computer Principals class (section3)](https://drive.google.com/file/d/19BU0aZaEWkP5pjjGsVoFB3Z8KwokgkIC/view?usp=sharing)\
+[Sample Question for Advance Programming class](https://drive.google.com/file/d/1uwZ9qCRyyeWYHeKffIBVcy6_6VGIZqrg/view?usp=sharing)
+
+
+
 
 
