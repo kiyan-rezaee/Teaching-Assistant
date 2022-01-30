@@ -34,6 +34,10 @@
 [Additional Exercises for Computer Principals class (section2)](https://drive.google.com/file/d/15eK81jF6m2QTZPv7r6v3X5Nk4IJgqYy7/view?usp=sharing)\
 [Additional Exercises for Computer Principals class (section3)](https://drive.google.com/file/d/19BU0aZaEWkP5pjjGsVoFB3Z8KwokgkIC/view?usp=sharing)\
 [Sample Question for Advance Programming class](https://drive.google.com/file/d/1uwZ9qCRyyeWYHeKffIBVcy6_6VGIZqrg/view?usp=sharing)
+[Computer Principals project1](https://drive.google.com/file/d/142ZNtDMWemlDw7LlUn02psvQlC9lVQ_d/view?usp=sharing)
+[Computer Principals project2](https://drive.google.com/file/d/1QYvq9AZ9k2fge4oiw7VFKgtj1S7pBCx8/view?usp=sharing)
+
+
 
 
 
