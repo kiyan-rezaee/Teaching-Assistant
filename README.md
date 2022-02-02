@@ -1,11 +1,12 @@
 # Teaching Assistant
 
 ## Advance Programming (Python):
+> ### Control Structure
+> [Online Class(Control Structure in python)](https://drive.google.com/file/d/1W0H2Pz7DgdY88j4WgnnEuEf7Ou_26EhU/view)\
+> [Online Class(Control Structure in python)](https://drive.google.com/drive/folders/14yG7g3Hh0T3K3LT-Y14LPDHrb3NvBn2h)\
+> [Exercise(Control Structure in Python)](https://drive.google.com/file/d/1NpNSXf79JP2UluEGXPbaU4Psi6oDRqic/view?usp=sharing)\
+> [Exercise(Control Structure in Python)](https://drive.google.com/file/d/1wYHe7_IuPjpwbgK4mSmInP360y8KIPzR/view?usp=sharing)\
 
-[Online Class(Control Structure in python)](https://drive.google.com/file/d/1W0H2Pz7DgdY88j4WgnnEuEf7Ou_26EhU/view)\
-[Online Class(Control Structure in python)](https://drive.google.com/drive/folders/14yG7g3Hh0T3K3LT-Y14LPDHrb3NvBn2h)\
-[Exercise(Control Structure in Python)](https://drive.google.com/file/d/1NpNSXf79JP2UluEGXPbaU4Psi6oDRqic/view?usp=sharing)\
-[Exercise(Control Structure in Python)](https://drive.google.com/file/d/1wYHe7_IuPjpwbgK4mSmInP360y8KIPzR/view?usp=sharing)\
 [Online Class(Functions)](https://drive.google.com/file/d/14CJRxRdbTz9z9dEqRDl1je9out81ozZ7/view)\
 [Exercise(Functions)](https://drive.google.com/file/d/1U7G6SK57v3qs-VSMiXLq_inZ1QKYXmnt/view?usp=sharing)\
 [Exercise(Functions)](https://drive.google.com/file/d/1_19F9oJOpltuIPDmy9TwYBNqZkr2EW60/view?usp=sharing)\
@@ -14,12 +15,13 @@
 [Exercise(Functions)](https://drive.google.com/file/d/1HkbCI5wB84ceZV7zDAMTGrptSFeWoEn8/view?usp=sharing)\
 [Online Class(Functions)](https://drive.google.com/file/d/1NYfV-Q2H3KRy09lBhziliL0PajECU7qV/view?usp=sharing)\
 [Online Class(Recursion and Recursive call tree)](https://drive.google.com/file/d/1rFYh0oMfcSv14N-ZKFOYSfUWash5EVTq/view?usp=sharing)\
+
 [Online Class(Collections)](https://drive.google.com/file/d/1kA6CEvPzynlpeDuZlbe2Nf0wwWxK9lNb/view?usp=sharing)\
 [Online Class(Collections)](https://drive.google.com/file/d/15eAgAIQBNFXJigFEPsUgbm-lF2rImttS/view)\
 [Online Class(Collections)](https://drive.google.com/drive/folders/1b9eoVr2WWxfT_Bgp2iLoYkKgvhaQ6qIj)\
 [Quera Q&A](https://drive.google.com/file/d/1WdpVm8Dn5XqyrQHEnuSWUWxkR5YzVpqe/view)
 
-[Design Webpage for course](https://sadegh28.github.io/AP1400-1/)
+[**Design Webpage for course**](https://sadegh28.github.io/AP1400-1/)
 
 ## Computer Principals (C++):
 [Online Class(Flowchart and Algorithm)](https://drive.google.com/file/d/1Hqccv6KOlos1n4VqC2eD_2o0xpSVuqLb/view?usp=sharing)\
