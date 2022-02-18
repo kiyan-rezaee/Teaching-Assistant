@@ -24,8 +24,8 @@
 > [Quera Q&A](https://drive.google.com/file/d/1WdpVm8Dn5XqyrQHEnuSWUWxkR5YzVpqe/view)
 
 > ### Webpage
-> [**Design Webpage for course**](https://sadegh28.github.io/AP1400-1/)\
-> [**Design Webpage for course (Spring 2022) **](https://sadegh28.github.io/AP1400-2/)
+> [**Design Webpage for course (Fall 2021)**](https://sadegh28.github.io/AP1400-1/)\
+> [**Design Webpage for course (Spring 2022)**](https://sadegh28.github.io/AP1400-2/)
 
 ## Computer Principals (C++):
 [Online Class(Flowchart and Algorithm)](https://drive.google.com/file/d/1Hqccv6KOlos1n4VqC2eD_2o0xpSVuqLb/view?usp=sharing)\
