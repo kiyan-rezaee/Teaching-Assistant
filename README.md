@@ -1,26 +1,30 @@
 # Teaching Assistant
 
 ## Advance Programming (Python):
+
+> ### Introduction
+> [Prerequisite Online Class (Spring 2022)](https://drive.google.com/file/d/1rFa8N86D1lNIdKYqW4GgVDs9ZheCEHfd/view)
+
 > ### Control Structure
-> [Online Class(Control Structure in python)](https://drive.google.com/file/d/1W0H2Pz7DgdY88j4WgnnEuEf7Ou_26EhU/view)\
-> [Online Class(Control Structure in python)](https://drive.google.com/drive/folders/14yG7g3Hh0T3K3LT-Y14LPDHrb3NvBn2h)\
-> [Exercise(Control Structure in Python)](https://drive.google.com/file/d/1NpNSXf79JP2UluEGXPbaU4Psi6oDRqic/view?usp=sharing)\
-> [Exercise(Control Structure in Python)](https://drive.google.com/file/d/1wYHe7_IuPjpwbgK4mSmInP360y8KIPzR/view?usp=sharing)
+> [Online Class(Control Structure in python) - (Spring 2021)](https://drive.google.com/file/d/1W0H2Pz7DgdY88j4WgnnEuEf7Ou_26EhU/view)\
+> [Online Class(Control Structure in python) - (Fall 2020)](https://drive.google.com/drive/folders/14yG7g3Hh0T3K3LT-Y14LPDHrb3NvBn2h)\
+> [Exercise(Control Structure in Python) - (Fall 2021)](https://drive.google.com/file/d/1NpNSXf79JP2UluEGXPbaU4Psi6oDRqic/view?usp=sharing)\
+> [Exercise(Control Structure in Python) - (Fall 2021)](https://drive.google.com/file/d/1wYHe7_IuPjpwbgK4mSmInP360y8KIPzR/view?usp=sharing)
 
 > ### Functions
-> [Online Class(Functions)](https://drive.google.com/file/d/14CJRxRdbTz9z9dEqRDl1je9out81ozZ7/view)\
-> [Exercise(Functions)](https://drive.google.com/file/d/1U7G6SK57v3qs-VSMiXLq_inZ1QKYXmnt/view?usp=sharing)\
-> [Exercise(Functions)](https://drive.google.com/file/d/1_19F9oJOpltuIPDmy9TwYBNqZkr2EW60/view?usp=sharing)\
-> [Exercise(Functions)](https://drive.google.com/file/d/1BmVDg8fvmtXc-W2hsQvCRcrLeo2STzfj/view?usp=sharing)\
-> [Exercise(Functions)](https://drive.google.com/file/d/1LEjz0j-AFeayJT7EobGbz6-1IMW35oln/view?usp=sharing)\
-> [Exercise(Functions)](https://drive.google.com/file/d/1HkbCI5wB84ceZV7zDAMTGrptSFeWoEn8/view?usp=sharing)\
-> [Online Class(Functions)](https://drive.google.com/file/d/1NYfV-Q2H3KRy09lBhziliL0PajECU7qV/view?usp=sharing)\
-> [Online Class(Recursion and Recursive call tree)](https://drive.google.com/file/d/1rFYh0oMfcSv14N-ZKFOYSfUWash5EVTq/view?usp=sharing)
+> [Online Class(Functions) - (Fall 2021)](https://drive.google.com/file/d/14CJRxRdbTz9z9dEqRDl1je9out81ozZ7/view)\
+> [Exercise(Functions) - (Fall 2021)](https://drive.google.com/file/d/1U7G6SK57v3qs-VSMiXLq_inZ1QKYXmnt/view?usp=sharing)\
+> [Exercise(Functions) - (Fall 2021)](https://drive.google.com/file/d/1_19F9oJOpltuIPDmy9TwYBNqZkr2EW60/view?usp=sharing)\
+> [Exercise(Functions) - (Fall 2021)](https://drive.google.com/file/d/1BmVDg8fvmtXc-W2hsQvCRcrLeo2STzfj/view?usp=sharing)\
+> [Exercise(Functions) - (Fall 2021)](https://drive.google.com/file/d/1LEjz0j-AFeayJT7EobGbz6-1IMW35oln/view?usp=sharing)\
+> [Exercise(Functions) - (Fall 2021)](https://drive.google.com/file/d/1HkbCI5wB84ceZV7zDAMTGrptSFeWoEn8/view?usp=sharing)\
+> [Online Class(Functions) - (Spring 2021)](https://drive.google.com/file/d/1NYfV-Q2H3KRy09lBhziliL0PajECU7qV/view?usp=sharing)\
+> [Online Class(Recursion and Recursive call tree) - (Fall 2020)](https://drive.google.com/file/d/1rFYh0oMfcSv14N-ZKFOYSfUWash5EVTq/view?usp=sharing)
 
 > ### Collections
-> [Online Class(Collections)](https://drive.google.com/file/d/1kA6CEvPzynlpeDuZlbe2Nf0wwWxK9lNb/view?usp=sharing)\
-> [Online Class(Collections)](https://drive.google.com/file/d/15eAgAIQBNFXJigFEPsUgbm-lF2rImttS/view)\
-> [Online Class(Collections)](https://drive.google.com/drive/folders/1b9eoVr2WWxfT_Bgp2iLoYkKgvhaQ6qIj)\
+> [Online Class(Collections) - (Fall 2021)](https://drive.google.com/file/d/1kA6CEvPzynlpeDuZlbe2Nf0wwWxK9lNb/view?usp=sharing)\
+> [Online Class(Collections) - (Spring 2021)](https://drive.google.com/file/d/15eAgAIQBNFXJigFEPsUgbm-lF2rImttS/view)\
+> [Online Class(Collections) - (Fall 2020)](https://drive.google.com/drive/folders/1b9eoVr2WWxfT_Bgp2iLoYkKgvhaQ6qIj)\
 > [Quera Q&A](https://drive.google.com/file/d/1WdpVm8Dn5XqyrQHEnuSWUWxkR5YzVpqe/view)
 
 > ### Webpage
@@ -28,17 +32,17 @@
 > [**Design Webpage for course (Spring 2022)**](https://sadegh28.github.io/AP1400-2/)
 
 ## Computer Principals (C++):
-[Online Class(Flowchart and Algorithm)](https://drive.google.com/file/d/1Hqccv6KOlos1n4VqC2eD_2o0xpSVuqLb/view?usp=sharing)\
-[Online Class(Flowchart and Algorithm & Install Code Blocks)](https://drive.google.com/file/d/1LPZ-zi7o_XmIQdmMom1Q_L2E_WPQrrje/view?usp=sharing)\
-[Online Unwind Class for students](https://mega.nz/file/cs0G0LgQ#j1PWiP_3latG7n1rJB9hc1dL8veYEusucwqnVMQlPWw)\
-[Online Class (Control structure & Functions)](https://mega.nz/file/sxliVI6a#shXZ1dc8WxBMYGvD9wm3wUweOvWY952VnM6Zc98jZYI)\
-[Online Class](https://drive.google.com/file/d/14pjI18Mt1GE_BzbwQL-7mmdEMmRec5Ds/view?usp=sharing)
+[Online Class(Flowchart and Algorithm) - (Fall 2021)](https://drive.google.com/file/d/1Hqccv6KOlos1n4VqC2eD_2o0xpSVuqLb/view?usp=sharing)\
+[Online Class(Flowchart and Algorithm & Install Code Blocks) - (Fall 2021)](https://drive.google.com/file/d/1LPZ-zi7o_XmIQdmMom1Q_L2E_WPQrrje/view?usp=sharing)\
+[Online Unwind Class for students - (Fall 2021)](https://mega.nz/file/cs0G0LgQ#j1PWiP_3latG7n1rJB9hc1dL8veYEusucwqnVMQlPWw)\
+[Online Class (Control structure & Functions) - (Fall 2021)](https://mega.nz/file/sxliVI6a#shXZ1dc8WxBMYGvD9wm3wUweOvWY952VnM6Zc98jZYI)\
+[Online Class - (Fall 2021)](https://drive.google.com/file/d/14pjI18Mt1GE_BzbwQL-7mmdEMmRec5Ds/view?usp=sharing)
 
 
 ## Computer Principals (Python):
-[Offline Class(Flowchart and Algorithm)](https://drive.google.com/file/d/1Hqccv6KOlos1n4VqC2eD_2o0xpSVuqLb/view?usp=sharing)\
-[Online Class(Flowchart and Algorithm)](https://drive.google.com/file/d/1ZbdT5Ghd-OLdqdCRdOfk9J7OLMwRJpmW/view?usp=sharing)\
-[Online Class (Control structure & Functions)](https://mega.nz/file/t1skUK6Z#EDVLlvelzqIBny5fyRLGbsX_B3t5NOUf_FWulRqrh8A)
+[Offline Class(Flowchart and Algorithm) - (Fall 2021)](https://drive.google.com/file/d/1Hqccv6KOlos1n4VqC2eD_2o0xpSVuqLb/view?usp=sharing)\
+[Online Class(Flowchart and Algorithm) - (Fall 2021)](https://drive.google.com/file/d/1ZbdT5Ghd-OLdqdCRdOfk9J7OLMwRJpmW/view?usp=sharing)\
+[Online Class (Control structure & Functions) - (Fall 2021)](https://mega.nz/file/t1skUK6Z#EDVLlvelzqIBny5fyRLGbsX_B3t5NOUf_FWulRqrh8A)
 
 
 ## Notes:
