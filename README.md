@@ -6,11 +6,11 @@
 > [Prerequisite Online Class (Spring 2022)](https://drive.google.com/file/d/1rFa8N86D1lNIdKYqW4GgVDs9ZheCEHfd/view)
 
 > ### Control Structure
-> [Online Class(Control Structure in python) - (Spring 2022)](https://drive.google.com/file/d/1VJSB2GEtDnoKNYjx7gKlhk9AEQ_9TKo1/view)\
-> [Exercise(Control Structure in Python) - (Fall 2021)](https://drive.google.com/file/d/1NpNSXf79JP2UluEGXPbaU4Psi6oDRqic/view?usp=sharing)\
-> [Exercise(Control Structure in Python) - (Fall 2021)](https://drive.google.com/file/d/1wYHe7_IuPjpwbgK4mSmInP360y8KIPzR/view?usp=sharing)\
-> [Online Class(Control Structure in python) - (Spring 2021)](https://drive.google.com/file/d/1W0H2Pz7DgdY88j4WgnnEuEf7Ou_26EhU/view)\
-> [Online Class(Control Structure in python) - (Fall 2020)](https://drive.google.com/drive/folders/14yG7g3Hh0T3K3LT-Y14LPDHrb3NvBn2h)
+> [Online Class(Control Structure) - (Spring 2022)](https://drive.google.com/file/d/1VJSB2GEtDnoKNYjx7gKlhk9AEQ_9TKo1/view)\
+> [Exercise(Control Structure) - (Fall 2021)](https://drive.google.com/file/d/1NpNSXf79JP2UluEGXPbaU4Psi6oDRqic/view?usp=sharing)\
+> [Exercise(Control Structure) - (Fall 2021)](https://drive.google.com/file/d/1wYHe7_IuPjpwbgK4mSmInP360y8KIPzR/view?usp=sharing)\
+> [Online Class(Control Structure) - (Spring 2021)](https://drive.google.com/file/d/1W0H2Pz7DgdY88j4WgnnEuEf7Ou_26EhU/view)\
+> [Online Class(Control Structure) - (Fall 2020)](https://drive.google.com/drive/folders/14yG7g3Hh0T3K3LT-Y14LPDHrb3NvBn2h)
 
 > ### Functions
 > [Online Class(Functions) - (Fall 2021)](https://drive.google.com/file/d/14CJRxRdbTz9z9dEqRDl1je9out81ozZ7/view)\
