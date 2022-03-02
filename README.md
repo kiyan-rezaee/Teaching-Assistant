@@ -6,6 +6,8 @@
 > [Prerequisite Online Class (Spring 2022)](https://drive.google.com/file/d/1rFa8N86D1lNIdKYqW4GgVDs9ZheCEHfd/view)
 
 > ### Control Structure
+> [Online Class(Control Structure) - (Spring 2022)](https://drive.google.com/file/d/1yRpk5fFccaVGD280ARRcnlNTcEpfVu7e/view)
+> [Online Class(Control Structure) - (Spring 2022)](https://drive.google.com/file/d/1w7oTDV6U712RmaxiEfyEv2je7uIH0kQ0/view)
 > [Online Class(Control Structure) - (Spring 2022)](https://drive.google.com/file/d/1VJSB2GEtDnoKNYjx7gKlhk9AEQ_9TKo1/view)\
 > [Exercise(Control Structure) - (Fall 2021)](https://drive.google.com/file/d/1NpNSXf79JP2UluEGXPbaU4Psi6oDRqic/view?usp=sharing)\
 > [Exercise(Control Structure) - (Fall 2021)](https://drive.google.com/file/d/1wYHe7_IuPjpwbgK4mSmInP360y8KIPzR/view?usp=sharing)\
