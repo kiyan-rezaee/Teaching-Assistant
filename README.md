@@ -53,10 +53,15 @@
 
 ### Advance Programming
 
-**Spring 2021**:\
+#### Spring 2021
+[Advance_Programming_assignments-Control Structures](https://drive.google.com/file/d/1qLwwOc9-YeqGcGr7lMbYO_90DFab9jmf/view?usp=sharing)\
+[Advance_Programming_assignments-Control Structures Part2](https://drive.google.com/file/d/1eLW7E6rYRJ1SfDzYzeYjinlm7hHxhO8Y/view?usp=sharing)\
+[Advance_Programming_assignments-Functions](https://drive.google.com/file/d/1CcSoZTaPNG4dDgSKH3hv2ErPQZnpuvQr/view?usp=sharing)\
+[Advance_Programming_assignments-Collections](https://drive.google.com/file/d/17O4CHuOaHMedJMLFuDvoIOT8_4A4ggt_/view?usp=sharing)
 
-**Fall 2020**:\
-[Advance_Programming_assignments - (Fall 2020)](https://drive.google.com/file/d/1po3qDyK9lofMVrNmPgWKkkU4LG2qd2N2/view?usp=sharing)
+
+#### Fall 2020
+[Advance_Programming_assignments](https://drive.google.com/file/d/1po3qDyK9lofMVrNmPgWKkkU4LG2qd2N2/view?usp=sharing)
 
 
 ### Computer Principals (C++ & Python)
