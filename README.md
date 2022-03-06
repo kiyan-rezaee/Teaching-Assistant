@@ -50,13 +50,19 @@
 
 
 ## Notes:
+
+### Advance Programming
+[Advance_Programming_assignments-Fall 2020](https://drive.google.com/file/d/1po3qDyK9lofMVrNmPgWKkkU4LG2qd2N2/view?usp=sharing)
+
+
+### Computer Principals (C++ & Python)
 [Computer Principals week1](https://drive.google.com/file/d/1MW424nq5BNaO8rCjp4os1w7vDhyPZZ_1/view?usp=sharing)\
 [Computer Principals week2](https://drive.google.com/file/d/10tzVk5uSfefNT63ZNiyhiyvueyU-7w5g/view?usp=sharing)\
-[Additional Exercises for Computer Principals class (section1)](https://drive.google.com/file/d/1KRlWDkTg4EYykA_Ee3x186AKhvw2sROQ/view?usp=sharing)\
-[Additional Exercises for Computer Principals class (section2)](https://drive.google.com/file/d/15eK81jF6m2QTZPv7r6v3X5Nk4IJgqYy7/view?usp=sharing)\
-[Additional Exercises for Computer Principals class (section3)](https://drive.google.com/file/d/19BU0aZaEWkP5pjjGsVoFB3Z8KwokgkIC/view?usp=sharing)\
-[Computer Principals project1](https://drive.google.com/file/d/142ZNtDMWemlDw7LlUn02psvQlC9lVQ_d/view?usp=sharing)\
-[Computer Principals project2](https://drive.google.com/file/d/1QYvq9AZ9k2fge4oiw7VFKgtj1S7pBCx8/view?usp=sharing)
+[Design Additional Exercises for Computer Principals class (section1)](https://drive.google.com/file/d/1KRlWDkTg4EYykA_Ee3x186AKhvw2sROQ/view?usp=sharing)\
+[Design Additional Exercises for Computer Principals class (section2)](https://drive.google.com/file/d/15eK81jF6m2QTZPv7r6v3X5Nk4IJgqYy7/view?usp=sharing)\
+[Design Additional Exercises for Computer Principals class (section3)](https://drive.google.com/file/d/19BU0aZaEWkP5pjjGsVoFB3Z8KwokgkIC/view?usp=sharing)\
+[Design Project (C++)](https://drive.google.com/file/d/142ZNtDMWemlDw7LlUn02psvQlC9lVQ_d/view?usp=sharing)\
+[Design Project (C++)](https://drive.google.com/file/d/1QYvq9AZ9k2fge4oiw7VFKgtj1S7pBCx8/view?usp=sharing)
 
 
 
