@@ -1,5 +1,7 @@
 # Teaching Assistant
 
+# Videos
+
 ## Advance Programming (Python):
 
 > ### Introduction
@@ -51,7 +53,7 @@
 [Online Class (Control structure & Functions) - (Fall 2021)](https://mega.nz/file/t1skUK6Z#EDVLlvelzqIBny5fyRLGbsX_B3t5NOUf_FWulRqrh8A)
 
 
-## Notes:
+# Notes:
 
 ## Advance Programming
 
