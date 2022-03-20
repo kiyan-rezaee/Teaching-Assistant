@@ -1,8 +1,8 @@
 # Teaching Assistant
 
-# Videos
+## Videos
 
-## Advance Programming (Python):
+### Advance Programming (Python):
 
 > ### Introduction
 > [Prerequisite Online Class (Spring 2022)](https://drive.google.com/file/d/1rFa8N86D1lNIdKYqW4GgVDs9ZheCEHfd/view)
@@ -39,7 +39,7 @@
 > [**Design Webpage for course (Fall 2021)**](https://sadegh28.github.io/AP1400-1/)
 
 
-## Computer Principals (C++):
+### Computer Principals (C++):
 [Online Class(Flowchart and Algorithm) - (Fall 2021)](https://drive.google.com/file/d/1Hqccv6KOlos1n4VqC2eD_2o0xpSVuqLb/view?usp=sharing)\
 [Online Class(Flowchart and Algorithm & Install Code Blocks) - (Fall 2021)](https://drive.google.com/file/d/1LPZ-zi7o_XmIQdmMom1Q_L2E_WPQrrje/view?usp=sharing)\
 [Online Unwind Class for students - (Fall 2021)](https://mega.nz/file/cs0G0LgQ#j1PWiP_3latG7n1rJB9hc1dL8veYEusucwqnVMQlPWw)\
@@ -47,15 +47,15 @@
 [Online Class - (Fall 2021)](https://drive.google.com/file/d/14pjI18Mt1GE_BzbwQL-7mmdEMmRec5Ds/view?usp=sharing)
 
 
-## Computer Principals (Python):
+### Computer Principals (Python):
 [Offline Class(Flowchart and Algorithm) - (Fall 2021)](https://drive.google.com/file/d/1Hqccv6KOlos1n4VqC2eD_2o0xpSVuqLb/view?usp=sharing)\
 [Online Class(Flowchart and Algorithm) - (Fall 2021)](https://drive.google.com/file/d/1ZbdT5Ghd-OLdqdCRdOfk9J7OLMwRJpmW/view?usp=sharing)\
 [Online Class (Control structure & Functions) - (Fall 2021)](https://mega.nz/file/t1skUK6Z#EDVLlvelzqIBny5fyRLGbsX_B3t5NOUf_FWulRqrh8A)
 
 
-# Notes:
+## Notes:
 
-## Advance Programming
+### Advance Programming
 
 #### Spring 2022
 [Advance_Programming_assignments-Control Structures](https://drive.google.com/file/d/1MXehbAAqWGHu8DfVL03N0mP1t_jrx7i9/view?usp=sharing)\
@@ -77,7 +77,7 @@
 [Advance_Programming_assignments](https://drive.google.com/file/d/1po3qDyK9lofMVrNmPgWKkkU4LG2qd2N2/view?usp=sharing)
 
 
-## Computer Principals (C++ & Python)
+### Computer Principals (C++ & Python)
 
 [Computer Principals week1](https://drive.google.com/file/d/1MW424nq5BNaO8rCjp4os1w7vDhyPZZ_1/view?usp=sharing)\
 [Computer Principals week2](https://drive.google.com/file/d/10tzVk5uSfefNT63ZNiyhiyvueyU-7w5g/view?usp=sharing)\
