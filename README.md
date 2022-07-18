@@ -5,7 +5,7 @@
 > ### Github
 > [Online Class(Spring 2022)](https://drive.google.com/file/d/1xLxSDzvaIoxwBAn1dtr90bvJHFNQQC0B/view?usp=sharing)
 
-### Advance Programming (Python):
+### Advanced Programming (Python):
 
 > ### Introduction
 > [Prerequisite Online Class (Spring 2022)](https://drive.google.com/file/d/1rFa8N86D1lNIdKYqW4GgVDs9ZheCEHfd/view)
@@ -54,7 +54,7 @@
 
 ## Notes:
 
-### Advance Programming
+### Advanced Programming
 
 > ### Webpage
 > [**Design Webpage for course (Spring 2022)**](https://sadegh28.github.io/AP1400-2/)\
