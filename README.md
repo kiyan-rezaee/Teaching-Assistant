@@ -69,23 +69,23 @@
 > [**Activity**](https://github.com/Advanced-Programming-Class)
 
 #### Spring 2022
-[Advance_Programming_assignments-Control Structures](https://drive.google.com/file/d/1MXehbAAqWGHu8DfVL03N0mP1t_jrx7i9/view?usp=sharing)\
-[Advance_Programming_assignments-Functions](https://drive.google.com/file/d/16J6puVcM6UiV0QAlTsAMCVjkHFKM7LSv/view?usp=sharing)\
-[Advance_Programming_assignments-Collections](https://drive.google.com/file/d/1Up-SVsPV4cAodi3YP6MHyqfjOU-7WYZ9/view?usp=sharing)
+[Advanced_Programming_assignments-Control Structures](https://drive.google.com/file/d/1MXehbAAqWGHu8DfVL03N0mP1t_jrx7i9/view?usp=sharing)\
+[Advanced_Programming_assignments-Functions](https://drive.google.com/file/d/16J6puVcM6UiV0QAlTsAMCVjkHFKM7LSv/view?usp=sharing)\
+[Advanced_Programming_assignments-Collections](https://drive.google.com/file/d/1Up-SVsPV4cAodi3YP6MHyqfjOU-7WYZ9/view?usp=sharing)
 
 #### Fall 2021
-[Advance_Programming_assignments-Control Structures](https://drive.google.com/file/d/1JDPzPYtiqOITnlS3G-p_lqBdHOoanrIB/view?usp=sharing)\
-[Advance_Programming_assignments-Functions](https://drive.google.com/file/d/1JDPzPYtiqOITnlS3G-p_lqBdHOoanrIB/view?usp=sharing)\
-[Advance_Programming_assignments-Collections](https://drive.google.com/file/d/1PO_Eql0G1l9rhZho4t31irFYwh52ynq8/view?usp=sharing)
+[Advanced_Programming_assignments-Control Structures](https://drive.google.com/file/d/1JDPzPYtiqOITnlS3G-p_lqBdHOoanrIB/view?usp=sharing)\
+[Advanced_Programming_assignments-Functions](https://drive.google.com/file/d/1JDPzPYtiqOITnlS3G-p_lqBdHOoanrIB/view?usp=sharing)\
+[Advanced_Programming_assignments-Collections](https://drive.google.com/file/d/1PO_Eql0G1l9rhZho4t31irFYwh52ynq8/view?usp=sharing)
 
 #### Spring 2021
-[Advance_Programming_assignments-Control Structures](https://drive.google.com/file/d/1qLwwOc9-YeqGcGr7lMbYO_90DFab9jmf/view?usp=sharing)\
-[Advance_Programming_assignments-Control Structures Part2](https://drive.google.com/file/d/1eLW7E6rYRJ1SfDzYzeYjinlm7hHxhO8Y/view?usp=sharing)\
-[Advance_Programming_assignments-Functions](https://drive.google.com/file/d/1CcSoZTaPNG4dDgSKH3hv2ErPQZnpuvQr/view?usp=sharing)\
-[Advance_Programming_assignments-Collections](https://drive.google.com/file/d/17O4CHuOaHMedJMLFuDvoIOT8_4A4ggt_/view?usp=sharing)
+[Advanced_Programming_assignments-Control Structures](https://drive.google.com/file/d/1qLwwOc9-YeqGcGr7lMbYO_90DFab9jmf/view?usp=sharing)\
+[Advanced_Programming_assignments-Control Structures Part2](https://drive.google.com/file/d/1eLW7E6rYRJ1SfDzYzeYjinlm7hHxhO8Y/view?usp=sharing)\
+[Advanced_Programming_assignments-Functions](https://drive.google.com/file/d/1CcSoZTaPNG4dDgSKH3hv2ErPQZnpuvQr/view?usp=sharing)\
+[Advanced_Programming_assignments-Collections](https://drive.google.com/file/d/17O4CHuOaHMedJMLFuDvoIOT8_4A4ggt_/view?usp=sharing)
 
 #### Fall 2020
-[Advance_Programming_assignments](https://drive.google.com/file/d/1po3qDyK9lofMVrNmPgWKkkU4LG2qd2N2/view?usp=sharing)
+[Advanced_Programming_assignments](https://drive.google.com/file/d/1po3qDyK9lofMVrNmPgWKkkU4LG2qd2N2/view?usp=sharing)
 
 
 ### Computer Principals (C++ & Python)
