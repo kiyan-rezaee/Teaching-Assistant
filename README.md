@@ -1,5 +1,21 @@
 # Teaching Assistant
 
+##  Teaching Assistants association - Guilan University, faculty of Mathematical Sciences
+
+#### I have been elected as a member of the Association of Teaching Assistants. I help other undergraduate students if they have any problems or questions. They can come to the office and ask their questions.
+
+#### Address: Guilan University, Faculty of Mathematic Sciences, First floor
+
+#### Time: Saturday (10:12) - Sunday (10:12)
+
+#### Courses: Advance Programming and Computer Principals ( Saturday ) / Principles of operating systems and Principles of Database Design ( Sunday )
+
+[Time scheduale during semester](https://drive.google.com/file/d/1kWn8yZesx_HNToCm2yF9gMU2MyqAXnD1/view?usp=sharing)
+[Time scheduale during exams](https://drive.google.com/file/d/1n4VVxY8akR20mDAS39NMUQcjFwn3d6Ns/view?usp=sharing)
+
+> [Flowcharts and algorithms](https://drive.google.com/file/d/1JkSpo1tKHJ_3MHcbIx8aiH07389WU2Hi/view?usp=sharing)
+> [Programming C++](https://drive.google.com/file/d/1_rrebp5t-4pJdxlk4ij5bWK2VZ1ohaVF/view?usp=sharing)
+
 ## Videos
 
 > ### Github
