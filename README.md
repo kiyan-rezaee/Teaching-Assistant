@@ -2,7 +2,7 @@
 
 ##  Teaching Assistants association - Guilan University, faculty of Mathematical Sciences
 
-#### I have been elected as a member of the Association of Teaching Assistants. I help other undergraduate students if they have any problems or questions. They can come to the office and ask their questions.
+#### I have been elected as a member of the Association of Teaching Assistants. I help other undergraduate students.
 
 #### Address: Guilan University, Faculty of Mathematic Sciences, First floor
 
